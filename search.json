@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Work experience\nTA at University of Texas at Dallas in the Sociology Department.\n\nplot(Titanic)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hoda Elsafadi",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nplot(iris)"
+  }
+]
